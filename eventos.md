@@ -7,7 +7,7 @@ Calendario de eventos para 2018. Com datas previstas.
 |------------|---------------------------|--------------------------|----------------------------------------------------------|-----------|
 | qua, 24/01 | Quiosque Chopp Brahma     | Pedro Felipe             | Blockchain Revolution                                    | PHPub #53 |
 | qua, 18/02 | Quiosque Chopp Brahma     | Henry Junior             | Wordpress: do HTML ao Tema - Princípios iniciais         | PHPub #54 |
-| qua, 14/03 | Quiosque Chopp Brahma     | Atmos Maciel             | Microservices 2018: você já deveria estar pensando nisso | PHPub #55 |
+| qua, 14/03 | Quiosque Chopp Brahma     | Atmos Maciel             | Microservices: você já deveria estar pensando nesta jornada | PHPub #55 |
 | qua, 12/04 | Quiosque Chopp Brahma     | A definir                | A definir                                                | PHPub #56 |
 | qua, 10/05 | Quiosque Chopp Brahma     | A definir                | A definir                                                | PHPub #57 |
 | qua, 26/05 | A definir                 | A definir                | A definir                                                | PHPratica |
