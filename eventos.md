@@ -11,9 +11,9 @@ Calendario de eventos para 2018. Com datas previstas.
 | qua, 12/04 | FAIL                   | FAIL                     | FAIL                                                     | FAIL      |
 | qua, 10/05 | FAIL                   | FAIL                     | FAIL                                                     | FAIL      |
 | qua, 13/06 | Quiosque Chopp Brahma  | Evaldo Barbosa           | Prototipação                                             | PHPub #56 |
-| qua, 11/07 | Quiosque Chopp Brahma  | Atmos Maciel             | Docker, Jenkins e outras coisas legais                   | PHPub #59 |
-| qua, 09/08 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #60 |
-| qua, 12/09 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #61 |
-| qua, 10/10 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #62 |
-| qua, 13/11 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #63 |
-| qua, 12/12 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #64 |
+| qua, 11/07 | Quiosque Chopp Brahma  | Atmos Maciel             | Docker, Jenkins e outras coisas legais                   | PHPub #57 |
+| qua, 09/08 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #58 |
+| qua, 12/09 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #59 |
+| qua, 10/10 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #60 |
+| qua, 13/11 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #61 |
+| qua, 12/12 | Quiosque Chopp Brahma  | A definir                | A definir                                                | PHPub #62 |
